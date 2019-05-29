@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.martin.customsign.config.prop.CustomConfig",
+      "name": "app.conf.customs",
+      "type": "com.martin.customsign.config.prop.CustomConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.martin.customsign.config.prop.CustomConfig",
+      "name": "app.conf.customs.done-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.martin.customsign.config.prop.CustomConfig",
+      "name": "app.conf.customs.post-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.martin.customsign.config.prop.CustomConfig",
+      "name": "app.conf.customs.receive-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.martin.customsign.config.prop.CustomConfig",
+      "name": "app.conf.customs.sign-password",
+      "type": "java.lang.String"
+    }
+  ]
+}
